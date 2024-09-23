@@ -1,0 +1,41 @@
+-- Question 1
+B. Download the Dart SDK.
+
+-- Question 2
+D. dart --version.
+
+-- Question 3
+C. Run Flutter Doctor.
+
+-- Question 4
+C. Flutter run.
+
+-- Question 5
+B.Download Python from the official website.
+
+-- Question 6
+C. Add Python to PATH.
+
+-- QUESTION 7
+A. By running python --version.
+
+-- Question 8
+A. sudo install pip.
+
+-- Question 9
+C. To separate project dependencies and avoid conflicts.
+
+-- Question 10
+B. Download MySQL Installer from the official website.
+
+-- Question 11
+Custom.
+
+-- Question 12
+A. MySQL Server, MySQL Workbench, and MySQL Shell.
+
+-- Question 13
+B. To secure your MySQL installation with a super-secret password.
+
+-- Question 14
+C. Run mysqladmin start in the terminal.
